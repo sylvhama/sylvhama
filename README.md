@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**sylvhama/sylvhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+y+////::::+oyhhdhhhdddddddhys++++++osssysssoso+++/
+o/:///////+ooossyhddmmmmNNmmdhsoo++oooosssssysssoo
++/////+ossssssyyhhddddddmmmmmdhyso++osssyyhdddddhh
+/////++oyhdmmmmmNNMMMMNNNmmddddhysooossyhhddmmmmmm
+////////+oyhdmNNNmNMMMNmNNNNNmmmy+//+syhddmmmmddhh
+////:::::::://++///osysydmNNNNmh/---:smNMMMMNmNmdh
+////::-----.--::+syyyyyhyyyyys/::----+dmmmNNdhhddh
++++/:::---....----://///:-----::::..-:yhhhhhhhyys+
++++/:::----....--:::---------:::::.-::syyhhhhhs+--
+o+o+/::::----.---:::::-----::::::-.--:oyssss+:...-
++++++//////::::///////////:::::::-...-:o+:-.``.---
+//++o+ooooo+++++ooosssyyo/::::::--...--//---...---
+//++ossyyyyyyyhhhhhddhsoo+//::::-......-oo+//:::::
+//+oooossshdmmmmdddy+/::+dhhhhys+//+/:--+yyssoo++/
++++oooooosyyhyyso+:::::::odNNNNNdhhhysssyddhhyyss:
++++oo++ooo+///////::----::/+ymNmmdddho/yyhhddhhy/.
+++++o++++++////+yhs+/::::::+oydmddhhs/:+yyyhhyy+--
+soooo+++++++//////oyhddhhyyssooosyy+//:+yyyyys+-.-
+dysoo++++++++//:::://///+syhhdddhhhhhyyyyyyssydho-
+hmhysoo++++++///::::/+oooooooooossssosyyyssoymNmdd
+omNmhsoo++++//////////+osyhhhhhhhyysossssssdmmmNmd
+/yNNNdhso++////////////++ossyhhhyys+//+ooydNNNmmNm
+/+mNNNNdhso+++/////::::::::///+oo++////ohmdNNNNmmm
+//sNNNNNNmdyso+///:::::::://///::::///smmmdmNMMNmm
+/++yNNNNNNNNmdhso++///////+ooo++////+hNmmmmmNNMMNm
